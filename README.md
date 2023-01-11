@@ -1,2 +1,2 @@
 # humphryshikunzi.github.io
-[https://humphryshikunzi.github.io](Humphry Shikunzi Portfolio)
+(Humphry Shikunzi Portfolio)[https://humphryshikunzi.github.io]
